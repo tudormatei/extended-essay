@@ -1,1 +1,1 @@
-# extended-essay
+# Extended essay computer scince project.
