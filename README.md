@@ -1,1 +1,1 @@
-# Extended essay computer scince project.
+# Extended essay computer science project.
