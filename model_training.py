@@ -79,5 +79,5 @@ if __name__ == '__main__':
     batch_size = 500
     early_stop = EarlyStopping(monitor='val_loss', patience=2)
 
-    history = model.fit(x_train, y_train, batch_size=batch_size, epochs=50, verbose=1, validation_data=(x_validation, y_validation))
+    history = model.fit(x_train, y_train, batch_size=batch_size, epochs=50, verbose=1, validation_data=(x_validation, y_validation),callbacks=early_stop)
     
