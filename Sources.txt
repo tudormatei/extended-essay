@@ -1,0 +1,9 @@
+Book – Applied Deep Learning and Computer Vision for Self-Driving Cars
+https://books.google.ro/books?id=nIX4DwAAQBAJ&pg=PA2&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false
+
+Article – How do autonomous cars work?
+https://www.sciencedirect.com/science/article/pii/S2352146520300995
+
+Dataset – German road signs
+https://benchmark.ini.rub.de/gtsrb_news.html <-------- ORIGINAL DATASET TO REFRENCE AND CITE
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/code?datasetId=82373&sortBy=voteCount
