@@ -1,6 +1,6 @@
 ## Quick intro
 
-Hello and thank you for your interest in my project! This is a computer science project made from the IB extended essay.
+Hello and thank you for your interest in my project! This is a computer science project made for the IB extended essay.
 
 ## Prerequisites
 
