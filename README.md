@@ -1,6 +1,6 @@
-## Quick intro
+## Traffic Sign Classifier
 
-Hello and thank you for your interest in my project! This is a computer science project made for the IB extended essay.
+This is a computer science project made for the IB extended essay. This essay 
 
 ## Prerequisites
 
